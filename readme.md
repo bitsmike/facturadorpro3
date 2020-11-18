@@ -1,3 +1,54 @@
+# **Facturador PRO 3**
+
+
+## Manuales de Instalación
+
+[Windows - Linux](https://docs.google.com/document/d/1izr-fbKyOAAQDG46SpMAZtLytMxGEUdCEVh2VWGik_E/edit "Clic")
+<br>
+[Docker - Linux](https://drive.google.com/file/d/1vWawGZsS9fEFdD9v3HA-vKMsfH4ieaRE/view?usp=sharing "Clic")
+<br>
+[Docker - Linux - SSL](https://docs.google.com/document/d/1V54AoYPSNqgi2M9ddck6gh3AgQspZ-eH37_1BU7Gpuo/edit?usp=sharingg "Clic")
+<br>
+[Valet - Linux](https://docs.google.com/document/d/1x1SZnhzDITta6k-pOQC75xQKWowCgSUSRoa434gglQA/edit?usp=sharing "Clic")
+<br>
+[Linux - gestión externa de SSL](https://docs.google.com/document/d/1D87YJ9fq9yHiAauu6SGVugiC3m_i42DrFUt6VKYXuDI/edit?usp=sharing "Clic")
+
+
+### Scripts de instalación con Docker
+
+Linux - Ubuntu 18 - Docker - SSL opcional<br>
+[Guia](https://drive.google.com/file/d/1p5omfe_QZ360Utc-tenxE-sozKJHMgcW/view?usp=sharing "clic") <br>
+[Script](https://drive.google.com/file/d/1M1GMvhT9YS9RQ-r76RWXXenzy3wc2z0i/view?usp=sharing "clic" )
+
+### Manuales de actualización
+
+* Docker - Comandos manuales
+
+[Con Docker](https://docs.google.com/document/d/1ekGySBjGHspbPEE3OLkMGlWwjLvudmyLKo9Et-Cxejk/edit "Clic")
+<br>
+
+
+### Manuales de actualización de SSL gratuito
+
+* Docker
+
+[SSL](https://docs.google.com/document/d/1kcgtIDrOWnGKQbWO3sW2KEkUoNdadIB5YHBgaSb87uA/edit "Clic")
+
+
+### Manuales de Usuario
+
+[Manual de usuario](https://docs.google.com/document/d/1i7yKGy3rIvv9TrnwRWZifTuZMMnZ8dbWpqcjPZ3ClmE/edit "Clic")<br>
+[Manual de Tareas Programadas](https://docs.google.com/document/d/1Cu3Kpgv9HvMAV4fwVNbR-CFc0uTu_-qEVLT-MIuxBTQ/edit?usp=sharing "Clic")<br>
+[Manual de Cambio de Entorno](https://docs.google.com/document/d/1IBXczY4b1YvSnGdFlIklpb8HGlQcP1lN44rpXbtYyUc/edit "Clic")<br>
+[Manual de Pruebas](https://docs.google.com/document/d/1ht9JS7VdXiZrPmsqe3Dz-325lN_qEHDVVbieYU4Kay8/edit "Clic")
+
+## API
+
+[Documentación](https://docs.google.com/document/d/1QO3H2nhV6dubGFc-IOrXY1X1hobmKkSmutfrtKbelTw/edit "Clic")<br>
+
+[Colección para Postman](https://drive.google.com/file/d/18u_2U8z4tADIlZ0DbWg8-wg3JYYnT_t9/view?usp=sharing "Clic")
+
+## Manuales adicionales
 
 ### Conexión
 Conexión remota al servidor: [Guía](https://docs.google.com/document/d/1m7xmQ_yLBO2MQVew6ZrlCdvIMLNg2_EzEJmntDM_Jms/edit?usp=sharing "Clic")<br>
@@ -46,9 +97,10 @@ Validador documentos: [Guía](https://docs.google.com/document/d/1v6XpJrEwCx3suR
 
 ## Factura Perú
 
-[facturaperu.org.pe](http://facturaperu.org.pe "Clic")<br>
-soporte@facturaperu.org.pe<br>
+[facturaperu.org.pe](http://facturaperu.com.pe "Clic")<br>
+soporte@facturaperu.com.pe<br>
 wsapp: 977860500<b>
+
 
 ### Panel de cliente
 
@@ -56,4 +108,3 @@ wsapp: 977860500<b>
 <br>
 Usuario: demo@e.org.pe<br>
 Contraseña: 123456
-
