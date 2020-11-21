@@ -75,8 +75,6 @@ Linux - Ubuntu 18 - Docker - SSL opcional<br>
 
 ### Manuales de Usuario
 
-[Manual de usuario](https://docs.google.com/document/d/1i7yKGy3rIvv9TrnwRWZifTuZMMnZ8dbWpqcjPZ3ClmE/edit "Clic")<br>
-
 [Manual de usuario](https://drive.google.com/file/d/1pdKdhYAvVcTPa7GkGFMJJhki1StetvF3/view?usp=sharing "Clic")<br>
 [Manual de Tareas Programadas](https://docs.google.com/document/d/1Cu3Kpgv9HvMAV4fwVNbR-CFc0uTu_-qEVLT-MIuxBTQ/edit?usp=sharing "Clic")<br>
 [Manual de Cambio de Entorno](https://docs.google.com/document/d/1IBXczY4b1YvSnGdFlIklpb8HGlQcP1lN44rpXbtYyUc/edit "Clic")<br>
